@@ -25,7 +25,7 @@ A flutter app that gives the service of user authentication .
 
 ## Screenshots
 
-<img src= 'https://user-images.githubusercontent.com/72244208/176235426-22da0fae-94d2-4dd5-ba7d-9fe1e9a26ba1.png' width='250' height='510'/> 
+<img src= 'https://user-images.githubusercontent.com/72244208/176235960-4d059b3e-dad5-40b9-82a7-8cd5ab8d9036.png ' width='250' height='510'/> 
 <img src='https://user-images.githubusercontent.com/72244208/176235445-abb2a051-b20f-4b73-afd5-fe587796faa5.png' width='250' height='510'/>  
 <img src='https://user-images.githubusercontent.com/72244208/176235459-ac2d6acc-8270-4b8e-aafd-2deef14cd7f3.png' width='250' height='510'/>  
   
@@ -50,4 +50,5 @@ then connect your emulator/simulator/physical device and run :
 
 
 For help getting started with Flutter, view online [documentation](https://flutter.dev/docs)
-  
+ 
+
