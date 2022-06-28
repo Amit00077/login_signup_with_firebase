@@ -1,30 +1,25 @@
-# Music Lyrics
+# Login and SignUp
 
-A flutter app that gives information about songs using API.
+A flutter app that gives the service of user authentication .
 
 ## App Logo
 
-<img src="https://i.pinimg.com/originals/ae/2e/56/ae2e5651b74a00d5d31b8c6453fa3ebb.png" alt="alt text" title="image Title"  height="450" />
+<!-- <img src="https://i.pinimg.com/originals/ae/2e/56/ae2e5651b74a00d5d31b8c6453fa3ebb.png" alt="alt text" title="image Title"  height="450" /> -->
 
 
 ## Authors
 
-- [@kritagyaShekhar](https://github.com/kritagyashekhar2001)
+- [@amitbaliyan](https://github.com/Amit00077)
 
 
 ## Features
 
-- Used API
-- Neumorphic design
+- Used firebase
 - Cross platform
-- State management using BLoC Architecture
-- Make using MVC project structure
-- Used Hive database to store liked songs data
-
-
+ 
 ## Tech Used
 
-*Used:* Flutter, Firebase, Api, Hive,State Management
+*Used:* Flutter, Firebase,State Management
 
 ## Screenshots
 
