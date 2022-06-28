@@ -25,7 +25,7 @@ A flutter app that gives the service of user authentication .
 
 ## Screenshots
 
-<img src= https://user-images.githubusercontent.com/72244208/176233078-e8ef2b03-0648-4757-baad-d71b3f5cac52.png/> 
+<img src= 'https://user-images.githubusercontent.com/72244208/176233078-e8ef2b03-0648-4757-baad-d71b3f5cac52.png' width='250' height='510'/> 
 
 <img src='https://user-images.githubusercontent.com/93006120/168332031-d1652df2-4198-443f-aaab-2704be8fc3c1.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/>
 
