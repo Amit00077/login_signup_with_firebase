@@ -16,14 +16,16 @@ A flutter app that gives the service of user authentication .
 
 - Used firebase
 - Cross platform
+- fluttertoast
+- user authentication
  
 ## Tech Used
 
-*Used:* Flutter, Firebase,State Management
+*Used:* Flutter, Firebase,State Management,fluttertoast
 
 ## Screenshots
 
-<img src='https://user-images.githubusercontent.com/93006120/168331934-53168fb8-6e37-4c3a-92d6-4a6bd85ca8d2.png' width='250' height='510'/> 
+<img src= https://user-images.githubusercontent.com/72244208/176233078-e8ef2b03-0648-4757-baad-d71b3f5cac52.png/> 
 
 <img src='https://user-images.githubusercontent.com/93006120/168332031-d1652df2-4198-443f-aaab-2704be8fc3c1.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/>
 
@@ -52,3 +54,4 @@ then connect your emulator/simulator/physical device and run :
 
 
 For help getting started with Flutter, view online [documentation](https://flutter.dev/docs)
+![Screenshot_1656433688](https://user-images.githubusercontent.com/72244208/176233078-e8ef2b03-0648-4757-baad-d71b3f5cac52.png)
