@@ -26,7 +26,7 @@ A flutter app that gives the service of user authentication .
 ## Screenshots
 #### login page.
 <img src= 'https://user-images.githubusercontent.com/72244208/176235960-4d059b3e-dad5-40b9-82a7-8cd5ab8d9036.png ' width='250' height='510'/> 
-<img src= ' https://user-images.githubusercontent.com/72244208/176240120-4f29d15d-faf5-41de-bafb-d8b9f444a415.png' width='250' height='510'/> 
+<img src= 'https://user-images.githubusercontent.com/72244208/176240120-4f29d15d-faf5-41de-bafb-d8b9f444a415.png' width='250' height='510'/> 
 <img src= 'https://user-images.githubusercontent.com/72244208/176240177-f0c82b04-099a-4ef0-af59-bc0f7545d890.png ' width='250' height='510'/> 
 <img src= 'https://user-images.githubusercontent.com/72244208/176240214-9ca4c463-ca4a-4549-939b-e9fd80ab03c1.png ' width='250' height='510'/> 
 <img src='https://user-images.githubusercontent.com/72244208/176235445-abb2a051-b20f-4b73-afd5-fe587796faa5.png' width='250' height='510'/>  
