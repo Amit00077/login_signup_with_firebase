@@ -25,14 +25,10 @@ A flutter app that gives the service of user authentication .
 
 ## Screenshots
 
-<img src= 'https://user-images.githubusercontent.com/72244208/176233078-e8ef2b03-0648-4757-baad-d71b3f5cac52.png' width='250' height='510'/> 
-
-<img src='https://user-images.githubusercontent.com/93006120/168332031-d1652df2-4198-443f-aaab-2704be8fc3c1.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/>
-
-<img src='https://user-images.githubusercontent.com/93006120/168332057-b249939e-a4f6-4baf-93b7-13769fb87236.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332131-dd856c19-dfc2-4402-9f31-81273447a72f.png' width='250' height='510'/> 
-
-<img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332065-39621d14-31f2-410f-b07b-c7fdbd2974d9.png' width='250' height='510'/> 
-
+<img src= 'https://user-images.githubusercontent.com/72244208/176235426-22da0fae-94d2-4dd5-ba7d-9fe1e9a26ba1.png' width='250' height='510'/> 
+<img src='https://user-images.githubusercontent.com/72244208/176235445-abb2a051-b20f-4b73-afd5-fe587796faa5.png' width='250' height='510'/>  
+<img src='https://user-images.githubusercontent.com/72244208/176235459-ac2d6acc-8270-4b8e-aafd-2deef14cd7f3.png' width='250' height='510'/>  
+  
 
 ## To install this app
 
@@ -54,4 +50,4 @@ then connect your emulator/simulator/physical device and run :
 
 
 For help getting started with Flutter, view online [documentation](https://flutter.dev/docs)
- 
+  
