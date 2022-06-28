@@ -20,7 +20,7 @@ A flutter app that gives the service of user authentication .
  
 ## Tech Used
 
-*Used:* Flutter, Firebase,State Management,fluttertoast
+*Used:* Flutter,Firestore, Firebase,State Management,fluttertoast
 
 ## Screenshots
 #### login page.
